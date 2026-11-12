@@ -1,0 +1,14 @@
+Plotted to 'C:\Users\Hp\Desktop\gamma-det\prototypes\v2\pcb\radiation-det-v2-mini\radiation-det-v2-mini-F_Cu.gbr'.
+Plotted to 'C:\Users\Hp\Desktop\gamma-det\prototypes\v2\pcb\radiation-det-v2-mini\radiation-det-v2-mini-In1_Cu.gbr'.
+Plotted to 'C:\Users\Hp\Desktop\gamma-det\prototypes\v2\pcb\radiation-det-v2-mini\radiation-det-v2-mini-In2_Cu.gbr'.
+Plotted to 'C:\Users\Hp\Desktop\gamma-det\prototypes\v2\pcb\radiation-det-v2-mini\radiation-det-v2-mini-B_Cu.gbr'.
+Plotted to 'C:\Users\Hp\Desktop\gamma-det\prototypes\v2\pcb\radiation-det-v2-mini\radiation-det-v2-mini-F_Paste.gbr'.
+Plotted to 'C:\Users\Hp\Desktop\gamma-det\prototypes\v2\pcb\radiation-det-v2-mini\radiation-det-v2-mini-B_Paste.gbr'.
+Plotted to 'C:\Users\Hp\Desktop\gamma-det\prototypes\v2\pcb\radiation-det-v2-mini\radiation-det-v2-mini-F_Silkscreen.gbr'.
+Plotted to 'C:\Users\Hp\Desktop\gamma-det\prototypes\v2\pcb\radiation-det-v2-mini\radiation-det-v2-mini-B_Silkscreen.gbr'.
+Plotted to 'C:\Users\Hp\Desktop\gamma-det\prototypes\v2\pcb\radiation-det-v2-mini\radiation-det-v2-mini-F_Mask.gbr'.
+Plotted to 'C:\Users\Hp\Desktop\gamma-det\prototypes\v2\pcb\radiation-det-v2-mini\radiation-det-v2-mini-B_Mask.gbr'.
+Plotted to 'C:\Users\Hp\Desktop\gamma-det\prototypes\v2\pcb\radiation-det-v2-mini\radiation-det-v2-mini-Edge_Cuts.gbr'.
+Created Gerber job file 'C:\Users\Hp\Desktop\gamma-det\prototypes\v2\pcb\radiation-det-v2-mini\radiation-det-v2-mini-job.gbrjob'.
+Informacja: Done.
+Informacja: Done.

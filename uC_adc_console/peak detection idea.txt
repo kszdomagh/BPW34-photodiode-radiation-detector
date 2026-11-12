@@ -1,0 +1,25 @@
+
+peak det algo
+
+peak = 0;
+
+for(n in buf[x]){
+
+    if buf[n] > TH: 
+        peak = 1;
+        save to peak_buf[];
+        
+    if buf[n] < TH:
+    
+        if(peak==1){
+            find max in peak_buf[];
+            save max to spectrum_buf[];
+            peak = 0;
+        }
+        
+        if(peak == 0){
+            break;
+        }
+        
+        break;
+}

@@ -1,0 +1,89 @@
+h                                                                               
+Commands:                                                                       
+t0, ... : set threshold                                                         
+p       : peak capture mode                                                     
+s       : sample many                                                           
+s       : sample many                                                           
+m       : print max sample                                                      
+m                                                                               
+starting capture                                                                
+done                                                                            
+max: 967                                                                        
+m                                                                               
+starting capture                                                                
+done                                                                            
+max: 967                                                                        
+ppeak capture mode: ON                                                          
+threshold 980                                                                   
+p: 997                                                                          
+p: 988                                                                          
+p: 999                                                                          
+p: 988                                                                          
+p: 1050                                                                         
+p: 983                                                                          
+p: 1088                                                                         
+p: 1017                                                                         
+p: 987                                                                          
+p: 1010                                                                         
+p: 996                                                                          
+p: 1028                                                                         
+p: 1001                                                                         
+p: 1028                                                                         
+p: 1012                                                                         
+p: 987                                                                          
+p: 1011                                                                         
+p: 995                                                                          
+p: 988                                                                          
+p: 986                                                                          
+p: 1111                                                                         
+p: 1020                                                                         
+p: 1018                                                                         
+p: 983                                                                          
+p: 996                                                                          
+p: 991                                                                          
+p: 988                                                                          
+p: 1002                                                                         
+p: 1029                                                                         
+p: 1005                                                                         
+p: 1038                                                                         
+p: 986                                                                          
+p: 985                                                                          
+p: 987                                                                          
+p: 1006                                                                         
+p: 984                                                                          
+p: 1048                                                                         
+p: 1073                                                                         
+p: 1049                                                                         
+p: 986                                                                          
+p: 983                                                                          
+p: 1027                                                                         
+p: 1022                                                                         
+p: 1050                                                                         
+p: 1019                                                                         
+p: 982                                                                          
+p: 985                                                                          
+p: 984                                                                          
+p: 999                                                                          
+p: 1000                                                                         
+p: 1075                                                                         
+p: 1037                                                                         
+p: 985                                                                          
+p: 1084                                                                         
+p: 988                                                                          
+p: 1041                                                                         
+p: 1001                                                                         
+p: 990                                                                          
+                                                                                
+p: 983
+p: 996
+p: 1016
+p: 986
+p: 986
+p: 1143
+p: 1062
+p: 984
+p: 983
+p: 983
+p: 993
+p: 1002
+p: 984

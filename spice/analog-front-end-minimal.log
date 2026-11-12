@@ -1,0 +1,62 @@
+LTspice 24.0.12 for Windows
+Circuit: * C:\Users\Hp\Desktop\photodiode-based-radiation-detector\spice\analog-front-end-minimal.asc
+Start Time: Wed Nov 11 15:17:05 2026
+solver = Normal
+Maximum thread count: 8
+
+
+
+Limiting rise time of source i_32kev to 5e-09
+Limiting fall time of source i_32kev to 5e-09
+Limiting rise time of source i_dark to 2e-09
+Limiting fall time of source i_dark to 2e-09
+Limiting rise time of source i_662kev to 5e-09
+Limiting fall time of source i_662kev to 5e-09
+Limiting rise time of source i_59.5k to 5e-09
+Limiting fall time of source i_59.5k to 5e-09
+WARNING: Specified period is not longer than the sum of Trise, Tfall, and Ton for v7.  Increasing period to 1
+Limiting fall time of source v7 to 1.9984e-16
+WARNING: Less than two connections to node sample_rpico.  This node is used by v5.
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Gmin = 10
+Gmin = 1.07374
+Gmin = 0.115292
+Gmin = 0.0123794
+Gmin = 0.00132923
+vernier = 0.5
+vernier = 0.25
+vernier = 0.125
+vernier = 0.0625
+Gmin = 0.00100083
+vernier = 0.03125
+vernier = 0.015625
+vernier = 0.0078125
+vernier = 0.00390625
+vernier = 0.00195312
+Gmin = 0.00100083
+vernier = 0.000976562
+vernier = 0.000488281
+Gmin = 0
+Gmin stepping failed
+
+Starting source stepping with srcstepmethod=0
+Source Step = 3.0303%
+Source Step = 33.3333%
+Source Step = 63.6364%
+Source Step = 93.9394%
+Source stepping succeeded in finding the operating point.
+
+.step cf=1.4e-13
+
+
+
+.step cf=1.8e-13
+tnom = 27
+temp = 27
+method = modified trap
+.step cf=2.2e-13
+
+
+Total elapsed time: 2.610 seconds.
+
